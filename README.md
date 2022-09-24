@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanD17
 - 👀 I’m interested in programming video games and AI.
-- 🌱 I’m currently learning how to make an FRC android scouting app in java using Android Studio.
+- 🌱 I’m currently learning how to make an FRC android scouting app in flutter using Vs Code.
 
 <!---
 RyanD17/RyanD17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
